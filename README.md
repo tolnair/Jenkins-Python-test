@@ -1,2 +1,2 @@
-# Teamcity-Python-test
-Build a CI/CD pipeline to practice TeamCity tool with python scripts.
+# Jenkins-Python-test
+Build a CI/CD pipeline to practice Jenkins tool with python scripts.
