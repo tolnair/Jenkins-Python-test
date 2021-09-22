@@ -1,2 +1,2 @@
-# Teamcity-Practice
-Build a CI/CD pipeline to practice TeamCity tool.
+# Teamcity-Python-test
+Build a CI/CD pipeline to practice TeamCity tool with python scripts.
